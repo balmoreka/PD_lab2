@@ -1,0 +1,9 @@
+cloudpickle==3.1.0
+numpy==1.26.4
+psutil==6.0.0
+scikit-learn==1.5.1
+scipy==1.14.0
+python-dotenv==1.0.1
+pyarrow==17.0.0
+pandas==2.2.2
+watchdog==6.0.0
